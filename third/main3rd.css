@@ -1,0 +1,37 @@
+body {
+  background-color: white;
+  margin: 40px;
+  font-size: 100%;
+}
+
+.left-container {
+  height: 100%;
+  width: 45%;
+  background-color: white;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+p{
+  font-size: 1.2rem;
+}
+.right-container {
+  height: 100%;
+  width: 45%;
+  background-color: white;
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top;
+}
+
+.top-box {
+  height: 350px;
+  width: 100%;
+  background-color: lightgray;
+  display: inline-block;
+  
+}
